@@ -1,7 +1,7 @@
 # THM – LazyAdmin Writeup
 
-📄 **PDF Report:**  
-👉 [Click here to view the full writeup](LazyAdmin.pdf)
+**PDF Report:**  
+[Click here to view the full writeup](THM_Writeup_LazyAdmin.pdf)
 
 ## Summary
 This writeup documents the compromise of the LazyAdmin machine, including:
